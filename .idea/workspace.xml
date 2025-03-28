@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f807c2e2-1cc5-4f95-9418-13e93a7ed13a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/(stripe)/create+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/(stripe)/create+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/(stripe)/pay+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/(stripe)/pay+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/driver+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/driver+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/ride/[id]+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/ride/[id]+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/ride/create+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/ride/create+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(api)/user+api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/(api)/user+api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +72,7 @@
       <updated>1743023069837</updated>
       <workItem from="1743023071012" duration="7315000" />
       <workItem from="1743031076963" duration="4389000" />
-      <workItem from="1743131032139" duration="2641000" />
+      <workItem from="1743131032139" duration="3024000" />
     </task>
     <servers />
   </component>
