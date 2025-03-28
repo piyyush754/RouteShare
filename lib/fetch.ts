@@ -1,10 +1,14 @@
+import 'react-native-get-random-values';
 import { useState, useEffect, useCallback } from "react";
 
 export const fetchAPI = async (url: string, options?: RequestInit) => {
   try {
-    const response = await fetch(url, options);
+    const apiBase = process.env.EXPO_PUBLIC_API_URL;
+    const fullUrl = url.startsWith("http") ? url : `${apiBase}${url}`;
+
+    const response = await fetch(fullUrl, options);
     if (!response.ok) {
-      new Error(`HTTP error! status: ${response.status}`);
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
     return await response.json();
   } catch (error) {
